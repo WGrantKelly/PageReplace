@@ -1,0 +1,64 @@
+========================================
+CS/COE 1550 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Grant Kelly
+
+Lecture section:  MW @ 3
+
+Recitation day and time:  T @ 5
+
+Assignment #:  3
+
+Program due date:  4/4/18
+
+Handed in date:  4/4/18
+
+Source code file name(s):
+
+vsim.c
+vsim.h
+MakeFile
+
+
+
+
+Other file name(s) (if relevant):
+
+swim.trace
+gcc.trace
+
+
+Does your program run without error?:
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+See Comments Below
+
+
+
+
+
+Additional comments to the grader:
+
+
+I could not properly get a linked list together and simulate even the clock method.
+
+I started with OPT and then had to comment out all of the code for it because it did not work quickly enough. It took about 5 minutes to do half of the memory accesses. 
+
+I then moved on to a linked list OPT but have been getting weird segmentation faults that I have worked for hours on solving, unsuccessfully.
+
+I am going to talk to Dr. Farnan about this project, but please let me know if there is anything extra I can do, because I have hit almost none of the rubric.
+
+I want to do the write up, but there is no proper data for me to record.
+
+
+
+
+
+
